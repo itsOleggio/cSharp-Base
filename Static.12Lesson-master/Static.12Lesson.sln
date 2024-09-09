@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac_task1.1", "prac_task1.1\prac_task1.1.csproj", "{E25E13D1-14C5-4122-8095-3B1F13812F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac_task2.1", "prac_task2.1\prac_task2.1.csproj", "{AEC7C15F-BAB3-452D-9F09-77D4FC00C73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E25E13D1-14C5-4122-8095-3B1F13812F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25E13D1-14C5-4122-8095-3B1F13812F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25E13D1-14C5-4122-8095-3B1F13812F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25E13D1-14C5-4122-8095-3B1F13812F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC7C15F-BAB3-452D-9F09-77D4FC00C73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC7C15F-BAB3-452D-9F09-77D4FC00C73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC7C15F-BAB3-452D-9F09-77D4FC00C73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC7C15F-BAB3-452D-9F09-77D4FC00C73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

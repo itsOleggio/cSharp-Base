@@ -1,0 +1,27 @@
+[
+  {
+    "Product_id": 593773,
+    "Product_name": "Сок яблочный",
+    "Product_price": 15
+  },
+  {
+    "Product_id": 414560,
+    "Product_name": "Сок Вишня",
+    "Product_price": 10
+  },
+  {
+    "Product_id": 876378,
+    "Product_name": "Сок Груша",
+    "Product_price": 16
+  },
+  {
+    "Product_id": 430507,
+    "Product_name": "Сок Малина",
+    "Product_price": 29
+  },
+  {
+    "Product_id": 569221,
+    "Product_name": "Сок Киви",
+    "Product_price": 19
+  }
+]
